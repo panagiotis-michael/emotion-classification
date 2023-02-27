@@ -1,6 +1,6 @@
 author = "Panagiotis Michael"
 copyright = "Copyright 2022"
-license = "MIT LICENSE"
+license = "AGPL-3.0 license"
 version = "0.1"
 maintainer = "Panagiotis Michael"
 email = "panagiotis.michael133@gmail.com"
